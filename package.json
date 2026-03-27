@@ -4,7 +4,8 @@
   "description": "ChatBot educativo con WhatsApp - Ejemplo para la asignatura de Desarrollo de Algoritmos",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "seed": "node seed.js"
   },
   "dependencies": {
     "whatsapp-web.js": "^1.23.0",
